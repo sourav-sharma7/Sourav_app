@@ -1,8 +1,15 @@
-# React + Vite
+# Assignment Submission: SOURAV KUMAR SHARMA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application with the following functionalities:
 
-Currently, two official plugins are available:
+1. **Add, Edit, and Remove Bills:**
+   - Manage bills locally by adding, editing, or removing them.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Filter Bills by Category:**
+   - Use a dropdown to filter bills based on their category.
+
+3. **Visualize Monthly Billing Cycle:**
+   - Display a time-series chart representing the monthly billing trends.
+
+4. **Budget Analysis:**
+   - Identify and highlight the minimum number of bills that can be paid within a specified monthly budget.
